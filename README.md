@@ -11,14 +11,9 @@ In this project, we will use data provided by **Million Song Dataset**, to creat
 
 ## Files used
 ### Python Files:
-* create_tables.py - Crates and Drops Tables
-* etl.py - Perform Extract, Transform and Load in Postgres SQL
+* create_tables.py - Creates and Drops Tables
+* etl.py - Perform Extract, Transform and Load using Postgres SQL
 * sql_queries.py - Contains SQL queries for creating and deleting tables, inserting data into table and select queries
-
-### Jupyter File:
-* etl.ipynb
-* test.ipynb
-
 
 ## Credits
 http://millionsongdataset.com
